@@ -1,0 +1,117 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .corpo {
+    display: flex;
+    max-width: 1096px;
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  img {
+    margin: 11px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid #eee;
+  }
+  
+  header {
+    display: flex;
+    margin: 10px;
+  }
+  
+  .cabecalho {
+    font-weight: normal;
+    line-height: 18px;
+    color: rgb(34, 34, 128);
+    margin: 50px 100px 0px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+  }
+  
+  .cabecalho h4 {
+    margin: 14px 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+  }
+  .info h2,
+  .prof h2,
+  .edu h2,
+  .proj h2 {
+    margin: 30px 0px 11px 21px;
+    font-family: Roboto;
+    font-style: normal;
+    color: rgb(38, 0, 128);
+  }
+  
+  .prof ul li,
+  .edu ul li {
+    margin: 0px 20px 10px 40px;
+  }
+  
+  p {
+    margin: 21px 0px 20px 21px;
+    font-style: normal;
+  }
+  ul li {
+    margin: 21px;
+  }
+  
+ 
+  
+  .b {
+    background-color: rgb(25, 48, 79);
+    color: #ffffff;
+    max-width: 323px;
+    padding: 56px 30px;
+   
+  }
+  
+  .b h2 {
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .contato h2 {
+    margin-top: 150px;
+    margin-left: 50px;
+  }
+  
+  .contato p {
+    font-size: 15px;
+    line-height: 11px;
+    margin: 0px 0px 20px 50px;
+    max-width: 200px;
+  }
+  
+  .conhecimento {
+    margin: 0px 50px;
+  }
+  
+  .conhecimento h2 {
+    margin-top: 50px;
+  }
+  .conhecimento ul li {
+    margin: 0px 0px 10px 5px;
+    border-bottom: 2px solid #ffffff;
+    list-style: none;
+  }
+  span {
+    width: 300px;
+    margin-left: 45px;
+    margin-top: 60px;
+  }
+  span a {
+    color: #ffffff;
+    margin-left: 7px;
+  }
+
+  .proj ul li{
+    margin: 0px 0px 0px 40px;}
